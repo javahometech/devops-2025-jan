@@ -1,3 +1,4 @@
 I want to learn git
 Git is lightweight
 Git is opensource
+Git is easy to work with if you practice
