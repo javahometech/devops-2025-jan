@@ -7,3 +7,4 @@ Git uses a distributed architecture
 This work is done in feature1 branch
 This work is done in feature2 branch
 This work is done by hari
+This work is done by other developer
